@@ -1,0 +1,26 @@
+[
+  {
+    "name": "WAVAX Token",
+    "symbol": "WAVAX",
+    "address": "0xa24D403B17A120392dC4B512867B7D4810A7e211",
+    "chainId": 43113,
+    "decimals": 18,
+    "logoURI": "https://tokens.thenex.world/images/0xa24D403B17A120392dC4B512867B7D4810A7e211.png"
+  },
+  {
+    "name": "Experience Token",
+    "symbol": "XP",
+    "address": "0x652d6b59aF6e0eC41bEDd99e7Ea11C0f0B77b945",
+    "chainId": 43113,
+    "decimals": 18,
+    "logoURI": "https://tokens.thenex.world/images/0x652d6b59aF6e0eC41bEDd99e7Ea11C0f0B77b945.png"
+  },
+  {
+    "name": "USDC",
+    "symbol": "USDC",
+    "address": "0x0E8c253b6cf6101411322f742791976dA487B2DC",
+    "chainId": 43113,
+    "decimals": 18,
+    "logoURI": "https://tokens.thenex.world/images/0x0E8c253b6cf6101411322f742791976dA487B2DC.png"
+  }
+]
